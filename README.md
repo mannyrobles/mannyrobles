@@ -1,4 +1,4 @@
-<h1>Hi, I'm Manuel! <br/><a href="[https://www.linkedin.com/in/manuel-robles-9b7273224/]"></a> Cybersecurity Student</a> and Tech Enthusiast!
+<h1>Hi, I'm Manuel! <br/><a href="[https://www.linkedin.com/in/manuel-robles-9b7273224/]"></a> Cybersecurity Student</a> and Tech Enthusiast.
 
 <h2>⚡ Certifications:</h2>
 <ul>
